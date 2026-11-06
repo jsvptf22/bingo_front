@@ -1,0 +1,22 @@
+CÓDIGOS QR · JUGADORES 1–500
+
+Cada archivo contiene un único número como contenido del QR y muestra
+ese mismo número en grande debajo del código:
+  jugador-001.svg / .png  ->  contenido "1"   · etiqueta visible "#1"
+  jugador-002.svg / .png  ->  contenido "2"   · etiqueta visible "#2"
+  ...
+  jugador-500.svg / .png  ->  contenido "500" · etiqueta visible "#500"
+
+Cómo usarlos:
+1. Abre index.html para ver todos los códigos y usar el botón Imprimir.
+   La impresión usa hojas A4 con una cuadrícula de 5 × 5 códigos.
+   También puedes imprimir directamente codigos-qr-1-500.pdf (20 páginas).
+2. O abre/escanea los archivos individuales jugador-XXX.svg o jugador-XXX.png.
+3. En la app, escanea el QR: se añadirá automáticamente "Jugador #X".
+4. Para asignar jugadores sin escanear, usa el número visible bajo cada QR.
+
+Los SVG son ideales para imprimir (no pierden calidad).
+Los PNG son imágenes de 290 × 390 px listas para usar en pantalla.
+El número está integrado en ambos formatos: no hace falta abrir otro archivo.
+
+Generado: 2026-11-06T19:07:39.848Z
